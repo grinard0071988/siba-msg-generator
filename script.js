@@ -1,4 +1,4 @@
-"use strict";
+//"use strict";
 const generateBtn = document.querySelector(".btn-1");
 const generateBtn2 = document.querySelector(".btn-2");
 const generateBtn3 = document.querySelector(".btn-3");
